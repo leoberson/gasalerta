@@ -25,7 +25,7 @@ int nivel_sensor = 75;
 
 // defenicao da URL e codigo de atenticacao do firebase
 #define firebaseURL  "gasalerta-f835c.firebaseio.com" 
-#define authCode  "sBN4CW9Ea30HDUjoXBYAV43BUzQx8aRslQ4XE7we"
+#define authCode  "sBN4CW9Ea30HDUjoXBYAV4x8aRslQ4XE7we"
 
 // defenição das configuracoes de conexao da internet
 #define wifiNome "NodeMCU"

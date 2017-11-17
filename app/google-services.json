@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "287357006160",
+    "firebase_url": "https://gasalerta-f835c.firebaseio.com",
+    "project_id": "gasalerta-f835c",
+    "storage_bucket": "gasalerta-f835c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287357006160:android:f491cd3d4b18b600",
+        "android_client_info": {
+          "package_name": "com.example.pc.gasalerta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287357006160-upla9ddn9nio07d7g1pk59abmhanf4h6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pc.gasalerta",
+            "certificate_hash": "1d36a35541034354125c7dcc7b48c6d4a6219846"
+          }
+        },
+        {
+          "client_id": "287357006160-ce14e7fkir8ikqkp739ccrtol3cm2jn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC4gKWrck7yoiF1p_68jBv5wsG0FfhdO4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287357006160-ce14e7fkir8ikqkp739ccrtol3cm2jn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
